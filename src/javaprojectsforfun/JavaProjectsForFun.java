@@ -28,7 +28,7 @@ public class JavaProjectsForFun {
                 break;  // If the entered number is valid, exit the loop
             } else {
                 System.out.println("Error: eso no es un numero entero valido. Intenta de nuevo.");
-                scanner.next(); // descarta la entrada inválida
+                scanner.next(); // discards invalid  input
             }
         }
 
